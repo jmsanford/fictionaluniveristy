@@ -321,3 +321,7 @@ Stack trace:
 #7 /app/public/wp-cron.php(126): do_action_ref_array('wp_version_chec...', Array)
 #8 {main}
   thrown in /app/public/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[01-May-2018 01:29:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 94
+[01-May-2018 01:29:25 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 94
+[01-May-2018 01:29:26 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 94
+[01-May-2018 01:29:26 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 94
